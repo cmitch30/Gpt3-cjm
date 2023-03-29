@@ -14,7 +14,7 @@ a {
     color: unset;
 }
 
-.gradient_bg {
+.gradient__bg {
     
 
     /* ff 3.6+ */
@@ -34,18 +34,18 @@ a {
    
 }
 
-.gradient_text {
+.gradient__text {
     background: var(--gradient-text);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
-.section_padding {
+.section__padding {
     padding: 4rem 6rem;
 }
 
-.section_margin {
+.section__margin {
     margin: 4rem 6rem;
 }
 
